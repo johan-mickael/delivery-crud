@@ -1,1 +1,1 @@
-Simple CRUD, registration and login made with JavaEE.
+Simple CRUD and login made with JavaEE.
